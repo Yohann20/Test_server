@@ -1,0 +1,14 @@
+{
+  "name": "test-servidor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-servidor.js",
+  "scripts": {
+    "start":"nodemon server.js"
+  },
+  "author": "Yohann M",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
